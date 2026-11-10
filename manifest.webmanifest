@@ -1,0 +1,17 @@
+{
+  "name": "Dragon's Grind \u2014 Class 12 PCM",
+  "short_name": "Dragon's Grind",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07100c",
+  "theme_color": "#07100c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
